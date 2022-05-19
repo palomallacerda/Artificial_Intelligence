@@ -1,0 +1,15 @@
+P => M
+L => M
+e => a 
+v+b => a 
+M+c => k
+M+d+g+o => k
+M+C => u
+M+r+D => u 
+k+A+m => l 
+k+A+p => t 
+u+E+s+A+m => G 
+u+B+p => z 
+a+E+s+R => V 
+a+!v+n+R => U 
+a+X => H
